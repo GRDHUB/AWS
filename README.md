@@ -1,4 +1,3 @@
    💻 📁
    # AWS 
-   **This repos consisting of AWS services that we are using in day-to-day work in DevOps**
-   
+   <h1> This repository consists of AWS services that we use in our day-to-day work in DevOps</h1> 
